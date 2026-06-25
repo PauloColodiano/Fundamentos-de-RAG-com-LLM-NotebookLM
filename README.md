@@ -1,5 +1,7 @@
 # 📚 Introdução a RAG e Aplicações com LLMs
 
+LINK: https://notebooklm.google.com/notebook/f5a50ea7-5b3c-489b-972e-b269e9c94c11
+
 ## 🎯 Objetivo
 
 Este projeto tem como objetivo introduzir os conceitos fundamentais de **Retrieval-Augmented Generation (RAG)**, suas aplicações práticas e a construção de soluções utilizando **Large Language Models (LLMs)** e a linguagem de programação **Python**.
